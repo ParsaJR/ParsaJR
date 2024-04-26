@@ -1,7 +1,7 @@
  # 👋 Hi , I’m Parsa
  
-I am interested in computer and I like to learn new things about it . I am familiar with DotNet and Vue js and I am trying to deepen my knowledge about them.
-Currently I am learning new things related to front-end development ...
+I am interested in computer and I like to learn anything about it. I am familiar with DotNet and Vue js , and I am trying to deepen my knowledge about them.
+Currently I am learning new things related to Front-End development and DevOps ...
 
 
  # Tools/Skills
