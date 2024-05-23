@@ -5,5 +5,5 @@ Currently I am learning new things related to Front-End development and DevOps .
 
 
  # Tools/Skills
- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,vue,nuxt,html,css,sass,bootstrap,tailwind,git,github,linux)](https://github.com/ParsaJR/ParsaJR)
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,vue,nuxt,html,css,sass,bootstrap,tailwind,git,github,linux,bash,docker)](https://github.com/ParsaJR/ParsaJR)
  
